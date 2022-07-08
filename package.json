@@ -1,0 +1,10 @@
+{
+  "name": "simple-promise",
+  "version": "1.0.0",
+  "devDependencies": {
+    "promises-aplus-tests": "2.1.2"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests index.js"
+  }
+}
